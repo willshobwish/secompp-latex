@@ -1,0 +1,28 @@
+Título do Projeto: Aplicação de Redes Neurais Convolucionais (CNN) para Reconhecimento de Imagens em Ambientes Não Estruturados
+
+Introdução:
+Com o crescimento exponencial dos dados visuais disponíveis em diferentes plataformas, a necessidade de sistemas eficazes para o processamento e reconhecimento de imagens tem se tornado essencial. Redes Neurais Convolucionais (CNNs) surgiram como uma das abordagens mais promissoras para a classificação e segmentação de imagens, especialmente em ambientes não estruturados, como vídeos de vigilância, imagens de drones e cenas urbanas.
+
+Objetivo:
+O objetivo deste projeto é investigar e desenvolver um modelo baseado em CNN para melhorar a precisão e a eficiência do reconhecimento de padrões visuais em ambientes não controlados. A pesquisa também busca avaliar a robustez das CNNs em diferentes condições, como variação de iluminação, occlusões parciais e ruído visual.
+
+Justificativa:
+As CNNs são amplamente utilizadas em várias aplicações, incluindo veículos autônomos, monitoramento de segurança e análise médica. No entanto, ambientes não estruturados apresentam desafios adicionais que podem impactar negativamente o desempenho das redes, como a falta de uniformidade nas condições de captura de imagem. Este projeto busca explorar técnicas para mitigar esses desafios e melhorar a robustez das CNNs em tais contextos.
+
+Metodologia:
+O projeto será dividido em três etapas principais:
+
+Revisão Bibliográfica: Uma análise detalhada das principais arquiteturas de CNNs (como AlexNet, VGG, ResNet) e suas aplicações em reconhecimento de imagens em ambientes não estruturados.
+
+Desenvolvimento do Modelo: Implementação de uma CNN personalizada, utilizando frameworks como TensorFlow e PyTorch, focando em melhorar a precisão em condições adversas, como ruído e variações de iluminação.
+
+Validação e Testes: O modelo será testado em conjuntos de dados como COCO e ImageNet, além de cenários reais capturados em ambientes urbanos e rurais. A performance será avaliada com métricas como acurácia, F1-Score e tempo de processamento.
+
+Cronograma:
+1º Mês: Revisão bibliográfica e definição das ferramentas a serem utilizadas.
+2º e 3º Meses: Desenvolvimento e treinamento do modelo CNN.
+4º Mês: Testes e ajustes do modelo.
+5º Mês: Análise de resultados e escrita do relatório final.
+
+Resultados Esperados:
+Espera-se que o modelo desenvolvido seja capaz de realizar o reconhecimento de imagens com alta precisão em condições desafiadoras, oferecendo uma solução viável para diversas aplicações no mundo real, como monitoramento urbano e análise de vídeo em tempo real.
